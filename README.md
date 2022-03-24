@@ -143,11 +143,11 @@ Navigate to the Volumes in the Elastic Block Store and specify the amount of the
  
 
  
-Before
+Storage Capacity before: 
   ![image](https://user-images.githubusercontent.com/92423729/159913010-91a46366-6e7f-48ce-85c6-fd4051f2c1c6.png)
 
  
-After
+Storage Capacity After:
   ![image](https://user-images.githubusercontent.com/92423729/159913027-37446281-ea63-448a-a8c2-fe55845b1659.png)
 
  Jupyter Setup:
