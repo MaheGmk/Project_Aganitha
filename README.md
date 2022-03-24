@@ -160,6 +160,7 @@ Once the Volume is increased , installed the Jupyter in Docker by following the 
 3.	Add the port number 8888 in the Security Groups in AWS
 4.	Access the jupyter notebook with the following url and provided password as above.
 http://ec2-52-91-185-198.compute-1.amazonaws.com:8888/
+
  http://ec2-52-91-185-198.compute-1.amazonaws.com:8888/lab/workspaces/auto-I/tree/Linear_regression_bigcity.ipynb
 
   
