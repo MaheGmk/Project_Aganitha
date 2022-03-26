@@ -112,7 +112,7 @@ sudo docker start <<containerID>>
 sudo docker rm <<containerID>>
   
 8.After the POSTGREADMIN successful installation we can access the link with the IP address provided in the instance information in AWS
-http://ec2-52-91-185-198.compute-1.amazonaws.com:5050/
+http://ec2-54-159-246-91.compute-1.amazonaws.com:5050/login?next=%2F
   
 9.Create a server in the pgAdmin with the IP address by using the command ifconfig in the linux terminal and add the required details hostname,dbname,username,password
 Hostname: <<Our public IP>>
@@ -159,9 +159,9 @@ Once the Volume is increased , installed the Jupyter in Docker by following the 
  2.	Token is generated and updated the password as “Mahe@GMK”
 3.	Add the port number 8888 in the Security Groups in AWS
 4.	Access the jupyter notebook with the following url and provided password as above.
-http://ec2-52-91-185-198.compute-1.amazonaws.com:8888/
+http://ec2-54-159-246-91.compute-1.amazonaws.com:8888/
 
- http://ec2-52-91-185-198.compute-1.amazonaws.com:8888/lab/workspaces/auto-I/tree/Linear_regression_bigcity.ipynb
+http://ec2-54-159-246-91.compute-1.amazonaws.com:8888/lab/workspaces/auto-I/tree/Linear_regression_bigcity.ipynb
 
   
   
